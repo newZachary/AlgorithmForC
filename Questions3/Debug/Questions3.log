@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Questions3.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  sortFunction2.cpp
+d:\program\cpp\project\project1\questions3\sortfunction2.cpp(177): warning C4101: “j”: 未引用的局部变量
+  Questions3.vcxproj -> D:\program\cpp\project\Project1\Debug\SortTimes.exe
